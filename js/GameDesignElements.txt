@@ -1,0 +1,15 @@
+1-PC & NPC,
+2-GOAL-Finish The Race 1st,
+3-RULES,
+    1-Finish 3 lives you lose,
+    2-crashing obstacle you lose life,
+    3-when you touch a fuel tank your fuel will be restored,
+    4-who touchesthe finishing line first, completes the race 1st .
+4-BALANCE,
+    neither too easy nor too difficult.
+5-ADAPTIVITY,
+    Increase the difficulty level as the game speed.
+6-FEEDBACK,
+7-CHANCE VS SKILL,
+8-STORY.       
+
